@@ -9,6 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
 <!--        three commit-->
     </parent>
+<!--    5 commit-->
     <groupId>com.glqdlt.ex</groupId>
     <artifactId>pr-test</artifactId>
     <version>0.0.1-SNAPSHOT</version>
